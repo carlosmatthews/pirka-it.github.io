@@ -16,9 +16,9 @@
         <div class="container">
           <div class="site-header-inner">
             <div class="brand header-brand">
-              <h1 class="m-0"> <a href="#"> <img class="header-logo-image" src="../manas%20logo.svg"
+              <h1 class="m-0"> <a href="#"> <img class="header-logo-image" src="dist/images/logo.svg"
 
-                    alt="Logo" style="width: 352px; height: 112px;"> </a> </h1>
+                    alt="Logo"> </a> </h1>
             </div>
           </div>
         </div>
@@ -31,86 +31,32 @@
                 <div class="hero-title mt-0"><background-image src="logo_cm.svg"
 
                     alt="logo cm" style="width: 379px; height: 364px;"></background-image></div>
-                <h1 class="hero-title mt-0" style="text-align: left; margin-top: -81px;"><span
+                <h1 class="hero-title mt-0"><span style="color: rgba(51, 51, 255, 0.79);"><span
 
-                    style="color: rgba(51, 51, 255, 0.79);"><span style="color: #1c1c1c;">//</span><span
+                      style="color: #1c1c1c;">//</span><span style="color: #f0f0f0;"></span></span><span
 
-                      style="color: #f0f0f0;"></span></span><span style="color: rgba(51, 51, 255, 0.79);"><span
+                    style="color: rgba(51, 51, 255, 0.79);"><span style="color: #f0f0f0;"><strong>MaNaS</strong></span><span
 
-                      style="color: #f0f0f0;"><strong>MaNas</strong></span><span
-
-                      style="color: #1c1c1c;">&gt;</span></span><span style="color: #ccffff;"><span
-
-                      style="color: #356dff;">IT </span></span><span style="color: #ccffff;"><span
+                      style="color: #1c1c1c;">&gt;</span></span> <span style="color: #ccffff;"><span
 
                       style="color: #f0f0f0;">Consult</span><span style="color: #356dff;"><span
 
-                        style="color: #f0f0f0;">oria</span><span style="color: #191919;"><span
+                        style="color: #f0f0f0;"> </span>IT<span style="color: #191919;"><span
 
-                          style="color: #3366ff;"><span style="color: #02040a;"></span></span></span></span></span>
-                </h1>
-                <p class="hero-paragraph" style="text-align: left;"><span style="color: white;"><br>
+                          style="color: #3366ff;"><span style="color: #02040a;">//</span></span></span></span></span></h1>
+                <p class="hero-paragraph"><span style="color: white;">Consultoria,
+                    Deployment, Investigacion, Migraciones, Auditorias,
+                    Implementacion de software Open Source.</span></p>
+                <p class="hero-paragraph"><span style="color: white;">Monitorizacion
+                    de infraestructura.&nbsp;&nbsp;&nbsp; </span></p>
+                <p class="hero-paragraph"><span style="color: white;">Adminstracion
+                    y configuracion de la infraextructura de&nbsp; empresa o
+                    emprendimiento,&nbsp; en la Nube u On Premise</span>.</p>
+                <p class="hero-paragraph"><span style="color: white;">Programacion
+                    e implementacion de sistemas de Backups a medida<br>
                   </span></p>
-                <p class="hero-paragraph" style="text-align: left;"><b><span style="color: white;"><span
-
-                        style="color: #131a13;">&lt;</span>&nbsp; Consultoria,
-                      Deployment, Investigacion</span><span style="color: white;"></span></b><span
-
-                    style="color: white;"><b><span style="color: #131a13;">&gt;</span></b><span
-
-                      style="color: white;"><b><span style="color: #131a13;"></span>
-                        <br>
-                      </b></span></span></p>
-                <p class="hero-paragraph" style="text-align: left;"><b><span style="color: white;"><span
-
-                        style="color: white;"><span style="color: white;"><span
-
-                            style="color: #131a13;"><span style="color: white;"></span><span
-
-                              style="color: white;"><span style="color: #131a13;">&gt;</span></span></span></span>
-                      </span> </span><span style="color: white;"><span style="color: white;"><span
-
-                          style="color: #131a13;"></span></span>Migraciones,
-                      Auditorias, sustitucion OpenSource </span><span style="color: white;"><span
-
-                        style="color: white;"><span style="color: white;"><span
-
-                            style="color: #131a13;"><span style="color: white;"><span
-
-                                style="color: #131a13;">&lt;</span></span></span></span>
-                      </span> </span><span style="color: white;"><span style="color: white;"></span></span><span
-
-                      style="color: white;"></span><span style="color: white;"><span
-
-                        style="color: #131a13;"></span></span></b><br>
-                  <span style="color: white;"><span style="color: #131a13;"></span></span></p>
-                <p class="hero-paragraph" style="text-align: left;"><b><span style="color: white;"><span
-
-                        style="color: white;"><span style="color: #131a13;">&lt;
-                        </span></span>Monitorizacion de infraestructura </span><span
-
-                      style="color: white;"><span style="color: white;"><span style="color: #131a13;">&gt;</span></span>
-                      &nbsp;&nbsp; </span></b></p>
-                <p class="hero-paragraph" style="text-align: left;"><b><span style="color: white;"><span
-
-                        style="color: #131a13;"><span style="color: white;"></span><span
-
-                          style="color: white;"><span style="color: #131a13;">&gt;</span></span></span>
-                      Adminstracion y configuracion de la
-                      infraextructura&nbsp;&nbsp;&nbsp; en la Nube u On Premise</span>
-                    <span style="color: white;"><span style="color: #131a13;">&lt;</span></span></b></p>
-                <p class="hero-paragraph" style="text-align: left;"><b><span style="color: white;">&nbsp;</span><span
-
-                      style="color: white;"><span style="color: white;"><span style="color: #131a13;">&lt;
-                          </span></span>Desarrollo e implementacion de sistemas
-                      de&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Backups a medida<span
-
-                        style="color: #8a94a7;"> </span></span><span style="color: white;"><span
-
-                        style="color: #131a13;">&gt;</span></span></b></p>
-                <div class="hero-cta"><a class="button button-primary" href="#">CONTACTANOS</a><a
-
-                    class="button" href="#tecnologias">tecnologias</a></div>
+                <div class="hero-cta"><a class="button button-primary" href="#">Pre
+                    order now</a><a class="button" href="#">Get in touch</a></div>
               </div>
               <div class="hero-figure anime-element">
                 <svg class="placeholder" width="528" height="396" viewBox="0 0 528 396">
@@ -138,23 +84,22 @@
                   <div class="feature-inner">
                     <div class="feature-icon"> <a href="%3Cimg%20src=%22src/images/Ansible_logo.png%22%20alt=%22Feature%2001%22%20style=%22height:%20103px;%22%3E"><img
 
-                          src="src/images/Ansible_logo.svg" alt="ansible" style="height: 103px; margin-top: -58px;"></a>
+                          src="src/images/Ansible_logo.svg" alt="Feature 01" style="height: 103px;"></a>
                     </div>
                     <h4 class="feature-title mt-24">Orquestacion+Ansible</h4>
                     <p class="text-sm mb-0"><span><span>Ansible es una
                           plataforma de software libre para configurar y
-                          administrar ordenadores.&nbsp; Nos permite ejecutares
-                          multiples tareas en cientos de equipos ejecutando una
-                          sola orden.<br>
-                        </span></span></p>
+                          administrar ordenadores. Combina instalación
+                          multi-nodo, ejecuciones de tareas ad hoc y
+                          administración de configuraciones. Adicionalmente,
+                          Ansible es una herramienta de orquestación</span></span></p>
                   </div>
                 </div>
                 <div class="feature text-center is-revealing">
                   <div class="feature-inner">
                     <div class="feature-icon"> <img src="src/images/zabbix_logo_identity.svg"
 
-                        alt="Feature 02" style="width: 316px; height: 103px; margin-top: -58px;">
-                    </div>
+                        alt="Feature 02" style="width: 316px; height: 103px;"> </div>
                     <h4 class="feature-title mt-24">Monitoreo+Zabbix</h4>
                     <p class="text-sm mb-0"><b>Zabbix</b> es un <a href="https://es.wikipedia.org/wiki/Monitoreo_de_red"
 
@@ -167,20 +112,22 @@
 
                         title="Servidor">Servidores</a>, y <a href="https://es.wikipedia.org/wiki/Hardware_de_red"
 
-                        title="Hardware de red">hardware de red</a>. </p>
+                        title="Hardware de red">hardware de red</a>. Mediante la
+                      optimizacion de templates y personalizacion no permite
+                      generar un monitoreo confiable segun las necesidas</p>
                   </div>
                 </div>
                 <div class="feature text-center is-revealing">
                   <div class="feature-inner">
                     <div class="feature-icon"> <img src="src/images/Python_%28programming_language%29-Logo.wine.svg"
 
-                        alt="Feature 03" style="width: 211px; height: 103px; margin-top: -58px;">
-                    </div>
+                        alt="Feature 03" style="width: 211px; height: 92px;"> </div>
                     <h4 class="feature-title mt-24">Script+Python+BASH</h4>
                     <p class="text-sm mb-0"><span><span>La creacion de script
-                          BASH en combinacion Python permite automatizar
-                          multiples tareas en el mentniemto de sistemas de
-                          forama eficiente y confiable .&nbsp; <br>
+                          BASH en combinacion Python permite autpmatizar
+                          musltoples tareas en el mentniemto de sistemas de
+                          foram eficeinte y confiable . Siendo unade las mas
+                          destacadas la&nbsp; perdiodica de backups . <br>
                         </span></span></p>
                   </div>
                 </div>
@@ -188,14 +135,14 @@
                   <div class="feature-inner">
                     <div class="feature-icon"> <img src="src/images/Logo_Proxmox.svg.png"
 
-                        alt="Feature 04" style="width: 230px; height: 103px;"> </div>
+                        alt="Feature 04" style="width: 230px; height: 92px;"> </div>
                     <h4 class="feature-title mt-24">VE+Proxmox</h4>
                     <p class="text-sm mb-0"><span><span>&nbsp;Proxmox VE,
                           entorno de virtualización de servidores de código
                           abierto.&nbsp; Permite el despliegue y la gestión de
                           máquinas virtuales y contenedores. Este es nuestra
-                          principal herramieneta junto a otras como HiperV o
-                          VMware.<br>
+                          principal herrmanineta pero trabajamos con diversas
+                          soluciones como HiperV o VMware.<br>
                         </span></span></p>
                   </div>
                 </div>
@@ -203,10 +150,10 @@
                   <div class="feature-inner">
                     <div class="feature-icon"> <img src="src/images/cloud-topbanner-02.svg"
 
-                        alt="Feature 05" style="width: 157px; height: 103px;"> </div>
+                        alt="Feature 05" style="width: 157px; height: 106px;"> </div>
                     <h4 class="feature-title mt-24">Nube+AWS</h4>
                     <p class="text-sm mb-0">Trabajamos con AWS principaemte como
-                      plataforma para servicios en la nube, asi como sus
+                      pataforma para servicios en la nube, asi como sus
                       princuipales competidores como Google o Azure o Digital
                       Ocean </p>
                   </div>
@@ -215,13 +162,14 @@
                   <div class="feature-inner">
                     <div class="feature-icon"> <img src="src/images/docker-logo-blue.svg"
 
-                        alt="Feature 06" style=" height: 103px;"> </div>
+                        alt="Feature 06"> </div>
                     <h4 class="feature-title mt-24">Containers+Docker</h4>
                     <p class="text-sm mb-0"><span><span>Docker es un proyecto de
                           código abierto que automatiza el despliegue de
                           aplicaciones dentro de contenedores de software,
-                          permite automatización de virtualización de
-                          aplicaciones en múltiples sistemas operativos</span></span></p>
+                          proporcionando una capa adicional de abstracción y
+                          automatización de virtualización de aplicaciones en
+                          múltiples sistemas operativos</span></span></p>
                   </div>
                 </div>
               </div>
@@ -232,9 +180,10 @@
           <div class="container-sm">
             <div class="pricing-inner section-inner">
               <div class="pricing-header text-center">
-                <h2 class="section-title mt-0">contactanos</h2>
-                <p class="section-paragraph mb-0">cromaticofilms@gmail.com</p>
-                <p class="section-paragraph mb-0">+549 5529 686</p>
+                <h2 class="section-title mt-0">Unlimited for all</h2>
+                <p class="section-paragraph mb-0">Lorem ipsum dolor sit amet,
+                  consectetur adipiscing elit, sed do eiusmod tempor incididunt
+                  ut labore et dolore magna aliqua. Ut ad quis nostrud.</p>
               </div>
               <div class="pricing-tables-wrap">
                 <div class="pricing-table">
