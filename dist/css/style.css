@@ -1314,7 +1314,7 @@ label {
 }
 
 .header-logo-image {
-    width: 120px; /* Change 200px to your desired width */
+    width: 200px; /* Change 200px to your desired width */
     height: auto; /* Maintain aspect ratio */
   }
 .site-header {
