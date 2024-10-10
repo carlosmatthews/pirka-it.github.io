@@ -1607,7 +1607,7 @@ label {
 @media (min-width: 641px) {
     .hero {
         text-align: left;
-        padding-top: 64px;
+        padding-top: 2px;
         padding-bottom: 88px
     }
 
